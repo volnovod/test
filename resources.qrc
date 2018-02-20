@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/compass.png</file>
+        <file>images/sideView.png</file>
+        <file>images/topViewBlue.png</file>
+        <file>images/topViewRed.png</file>
+        <file>images/home.png</file>
+    </qresource>
+</RCC>
